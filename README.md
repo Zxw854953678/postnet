@@ -3,28 +3,25 @@
 ###printBarcode###
 
 ####checkPostcode####
- `input: '49876'
-  outout: true`
-  
-  `expected time : 10 min      actual time : `
+ >input: '49876'
+ >outout: true`
+ >expected time : 10 min      actual time : 
 
- `summary :   .......`
+ >summary :   .......
+
  
  ####buildchecksum####
- `input: '...'
-  outout: ....`
-  
-  `expected time : 10 min      actual time : `
+ >input: '...'
+ >outout: ....
+ >expected time : 10 min      actual time : `
 
- `summary :   .......`
+>summary :   .......`
  
  ####buildarcodesNum####
-  `input: '....'
-  outout: .....`
-  
-  `expected time : 10 min      actual time : `
-
- `summary :   .......`
+ >input: '....'
+ >outout: .....`
+>expected time : 10 min      actual time : 
+>summary :   .......`
  
  ####buildarcode####
   `input: '49876'
